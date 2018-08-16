@@ -1,0 +1,16 @@
+.brand-desc {
+    border: none;
+    color: black;
+    padding: 15px;
+    line-height: 1.4;
+    font-size: 22px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.brand-info h1 {
+    font-family: "Pacifico", cursive;
+    text-align: center;
+    margin: 10px;
+    color: orangered;
+    font-size: 3em;
+}

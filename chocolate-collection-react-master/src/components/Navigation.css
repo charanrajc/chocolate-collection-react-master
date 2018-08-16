@@ -1,0 +1,10 @@
+.active {
+    color: gold;
+    font-weight: 600;
+}
+
+.navbar-brand {
+    font-family: "Pacifico", cursive;
+    font-size: 1.8em;
+    color: gold !important;
+}

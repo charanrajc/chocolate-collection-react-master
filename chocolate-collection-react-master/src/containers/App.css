@@ -1,0 +1,29 @@
+.spinner {
+    margin: 0 auto;
+    padding-left: 45%;
+}
+
+.card {
+    margin: 10px;
+}
+
+main {
+    min-height: 480px;
+}
+
+.home p:first-of-type {
+    font-family: "Pacifico", cursive;
+    font-size: 3em;
+    padding: 40px;
+    text-align: center;
+    color: orangered;
+    border: none;
+}
+
+.home p {
+    color: black;
+    text-align: center;
+    border: none;
+    font-size: 2em;
+}
+

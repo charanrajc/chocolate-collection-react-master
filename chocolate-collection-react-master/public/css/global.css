@@ -1,0 +1,22 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #000000;
+    background-color: lightgoldenrodyellow;
+}
+
+/* CUSTOMIZE nav background */
+
+.bg-inverse {
+    background-color: hsla(355, 92%, 11%, 1) !important;
+}
+
+
+legend {
+    font-weight: bold;
+    font-size: 1.8em;
+}
